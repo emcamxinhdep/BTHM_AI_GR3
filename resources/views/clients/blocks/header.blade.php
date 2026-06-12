@@ -107,7 +107,7 @@
                                     <a href="{{ route('about') }}">Giới thiệu</a>
                                 </li>
                                 <li class="{{ Request::routeIs('doctors', 'doctor.detail') ? 'active' : '' }}">
-                                    <a href="{{ route('doctors') }}">Bác sĩ</a>
+                                    <a href="{{ route('doctors.index') }}">Bác sĩ</a>
                                 </li>
                                 <li class="{{ Request::routeIs('specialties') ? 'active' : '' }}">
                                     <a href="{{ route('specialties.index') }}">Chuyên khoa</a>

@@ -70,7 +70,7 @@
                             <nav class="main-menu navbar-expand-lg">
                                 <div class="navbar-header">
                                     <div class="mobile-logo">
-                                        <a href="{{ route('doctors') }}">
+                                        <a href="{{ route('doctors.index') }}">
                                             <img src="{{ asset('clients/assets/images/logos/logo.png') }}"
                                                 alt="Logo" title="Logo">
                                         </a>
@@ -94,7 +94,7 @@
                                             <a href="{{ route('about') }}">Giới thiệu</a>
                                         </li>
                                         <li class="{{ Request::routeIs('doctors', 'doctor.detail') ? 'active' : '' }}">
-                                            <a href="{{ route('doctors') }}">Bác sĩ</a>
+                                            <a href="{{ route('doctors.index') }}">Bác sĩ</a>
                                         </li>
                                         <li class="{{ Request::routeIs('specialties.index', 'specialty.detail') ? 'active' : '' }}">
                                             <a href="{{ route('specialties.index') }}">Chuyên khoa</a>
@@ -112,7 +112,7 @@
                         <!-- Nav Search -->
                         <div class="nav-search">
                             <button class="far fa-search"></button>
-                            <form action="{{ route('doctors') }}" class="hide" method="GET">
+                            <form action="{{ route('doctors.index') }}" class="hide" method="GET">
                                 <input type="text" name="keyword" placeholder="Search" class="searchbox" required>
                                 <i class="fa fa-microphone" aria-hidden="true" style="margin: 0 16px"
                                     id="voice-search"></i>

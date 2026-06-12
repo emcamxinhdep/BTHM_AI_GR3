@@ -74,7 +74,7 @@
                         <span class="count-text">10K+</span>
                         <span class="counter-title">Bệnh nhân hài lòng</span>
                     </div>
-                    <a href="{{ route('doctors') }}" class="theme-btn mt-10 style-two">
+                    <a href="{{ route('doctors.index') }}" class="theme-btn mt-10 style-two">
                         <span data-hover="Xem danh sách bác sĩ">Xem danh sách bác sĩ</span>
                         <i class="fal fa-arrow-right"></i>
                     </a>
@@ -193,7 +193,7 @@
                         <div class="feature-item">
                             <div class="icon"><i class="flaticon-tent"></i></div>
                             <div class="content">
-                                <h5><a href="{{ route('doctors') }}">Tư vấn từ xa</a></h5>
+                                <h5><a href="{{ route('doctors.index') }}">Tư vấn từ xa</a></h5>
                                 <p>Trao đổi với bác sĩ qua video hoặc chat.</p>
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                         <div class="feature-item mt-20">
                             <div class="icon"><i class="flaticon-tent"></i></div>
                             <div class="content">
-                                <h5><a href="{{ route('doctors') }}">Bác sĩ uy tín</a></h5>
+                                <h5><a href="{{ route('doctors.index') }}">Bác sĩ uy tín</a></h5>
                                 <p>Thông tin minh bạch và đánh giá thực tế.</p>
                             </div>
                         </div>
@@ -232,7 +232,7 @@
                     style="background-image: url({{ asset('clients/assets/images/cta/cta1.jpg') }});">
                     <span class="category">Khám trực tuyến</span>
                     <h2>Nhận tư vấn y tế mọi lúc mọi nơi</h2>
-                    <a href="{{ route('doctors') }}" class="theme-btn style-two bgc-secondary">
+                    <a href="{{ route('doctors.index') }}" class="theme-btn style-two bgc-secondary">
                         <span data-hover="Khám phá">Khám phá</span>
                         <i class="fal fa-arrow-right"></i>
                     </a>

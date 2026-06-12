@@ -26,7 +26,7 @@
                     <div class="footer-widget footer-links ms-sm-5">
                         <div class="footer-title"><h5>Dịch vụ</h5></div>
                         <ul class="list-style-three">
-                            <li><a href="{{ route('doctors') }}">Danh sách bác sĩ</a></li>
+                            <li><a href="{{ route('doctors.index') }}">Danh sách bác sĩ</a></li>
                             <li><a href="{{ route('specialties.index') }}">Chuyên khoa</a></li>
                             <li><a href="{{ route('appointment.create') }}">Đặt lịch khám</a></li>
                             <li><a href="#">Khám trực tuyến</a></li>
