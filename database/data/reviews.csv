@@ -1,0 +1,11 @@
+﻿id,patient_id,doctor_id,appointment_id,rating,comment
+1,1,1,1,5,"Bác sĩ An rất tận tâm, khám kỹ lưỡng. Tôi đã đỡ ho sau 2 ngày."
+2,2,4,3,4,"Giải thích rõ ràng, nhưng chờ hơi lâu."
+3,3,2,4,5,"Bác sĩ Bình rất dễ thương, bé nhà tôi hết sợ hãi."
+4,4,9,5,4,"Tư vấn tốt, nhưng giá hơi cao."
+5,6,6,7,5,"Điều trị viêm xoang hiệu quả, khỏi hẳn sau 1 tuần."
+6,7,7,8,3,"Phòng khám thiếu máy móc, phải chuyển viện."
+7,9,10,10,5,"Bác sĩ Lan kê đơn thuốc hợp lý, đỡ đau bụng ngay."
+8,1,2,12,5,"Da tôi hết mụn sau 2 tuần, cảm ơn bác sĩ Nga."
+9,2,3,13,4,"Phòng khám sạch sẽ, bác sĩ nhiệt tình."
+10,3,4,14,5,"Giáo sư Oanh rất giỏi, huyết áp tôi đã ổn định."

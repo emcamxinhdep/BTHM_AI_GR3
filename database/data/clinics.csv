@@ -1,0 +1,9 @@
+﻿id,name,address,district,lat,lng,distance_km,fee_min,fee_max,rating,phone
+1,"Phòng Khám Đa Khoa Medcare","123 Trần Hưng Đạo - Q1","Quận 1",10.7769,106.7009,2.3,150000,400000,4.8,028-1234-5678
+2,"Phòng Khám Gia Đình HealthPlus","456 Nguyễn Văn Cừ - Q5","Quận 5",10.752,106.683,3.1,100000,300000,4.5,028-2345-6789
+3,"Phòng Khám Nhi Đồng Care","789 Lý Thường Kiệt - Q10","Quận 10",10.772,106.668,4.7,120000,350000,4.6,028-3456-7890
+4,"Phòng Khám Chuyên Khoa Tâm Anh","321 Hoàng Văn Thụ - Tân Bình","Tân Bình",10.801,106.665,5.2,200000,600000,4.9,028-4567-8901
+5,"Phòng Khám Đa Khoa Quốc Tế","654 Điện Biên Phủ - Bình Thạnh","Bình Thạnh",10.81,106.715,6.8,250000,800000,4.7,028-5678-9012
+6,"Phòng Khám Sức Khỏe Viet","987 Cách Mạng Tháng 8 - Q3","Quận 3",10.785,106.689,3.9,130000,380000,4.4,028-6789-0123
+7,"Bệnh Viện Đa Khoa An Khang","147 Võ Văn Tần - Q3","Quận 3",10.778,106.692,4.1,180000,500000,4.6,028-7890-1234
+8,"Phòng Khám Nội Tiết Hormone","258 Nam Kỳ Khởi Nghĩa - Q3","Quận 3",10.774,106.696,3.5,160000,450000,4.5,028-8901-2345

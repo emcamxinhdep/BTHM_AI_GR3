@@ -1,0 +1,11 @@
+﻿id,appointment_id,patient_id,amount,method,transaction_id,order_id,request_id,raw_response,status
+1,1,1,200000,momo,MOMO_ABC123,ORDER_ABC123,REQ_ABC123,"{""resultCode"":0,""message"":""Success""}",success
+2,3,2,350000,momo,MOMO_DEF456,ORDER_DEF456,REQ_DEF456,"{""resultCode"":0,""message"":""Success""}",success
+3,4,3,180000,momo,MOMO_GHI789,ORDER_GHI789,REQ_GHI789,"{""resultCode"":0,""message"":""Success""}",success
+4,6,5,160000,momo,MOMO_JKL012,ORDER_JKL012,REQ_JKL012,"{""resultCode"":0,""message"":""Success""}",success
+5,7,6,170000,momo,MOMO_MNO345,ORDER_MNO345,REQ_MNO345,"{""resultCode"":0,""message"":""Success""}",success
+6,9,8,250000,momo,MOMO_PQR678,ORDER_PQR678,REQ_PQR678,"{""resultCode"":0,""message"":""Success""}",success
+7,10,9,180000,momo,MOMO_STU901,ORDER_STU901,REQ_STU901,"{""resultCode"":0,""message"":""Success""}",success
+8,12,1,140000,momo,MOMO_VWX234,ORDER_VWX234,REQ_VWX234,"{""resultCode"":0,""message"":""Success""}",success
+9,13,2,200000,momo,MOMO_YZA567,ORDER_YZA567,REQ_YZA567,"{""resultCode"":0,""message"":""Success""}",success
+10,14,3,400000,momo,MOMO_BCD890,ORDER_BCD890,REQ_BCD890,"{""resultCode"":0,""message"":""Success""}",success

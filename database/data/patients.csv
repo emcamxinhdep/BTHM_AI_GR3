@@ -1,0 +1,11 @@
+﻿id,name,email,password,phone,avatar,birthday,gender,address,district,city,latitude,longitude,blood_type,medical_history,status
+1,"Nguyễn Văn An",an.nguyen@email.com,$2y$10$4j2cD1hd5JrhgGcl7W6MPO8QAVyRl3gHDldI9YDYwKqeX27LZkwUm,0912345671,patients/an.jpg,1985-03-12,male,"12 Lê Lợi, P. Bến Nghé","Quận 1",TP.HCM,10.778,106.7,O+,"Tiền sử viêm xoang",1
+2,"Trần Thị Bình",binh.tran@email.com,$2y$10$4kd9v0JmVpJ2mXbhSw.JXuxFrL1/SBERrsQFZD6WeIhYj0SVSddG.,0912345672,patients/binh.jpg,1990-07-25,female,"45 Nguyễn Thị Minh Khai, P. Đa Kao","Quận 1",TP.HCM,10.779,106.701,A+,"Hen suyễn",1
+3,"Lê Văn Cường",cuong.le@email.com,$2y$10$5XAnhBnprYMBAwRn.2TZ0OamBinAbLORGaa7/icZNAd1b.qJV8W72,0912345673,patients/cuong.jpg,1978-11-02,male,"78 CMT8, P. 5","Quận 10",TP.HCM,10.772,106.667,B+,"Tăng huyết áp",1
+4,"Phạm Thị Dung",dung.pham@email.com,$2y$10$c/OtoGc26wSBprg9FfrJDOdV6nyAuO1p/ilgnxgaR7Js40hjsWwW6,0912345674,patients/dung.jpg,1995-05-18,female,"123 Nguyễn Văn Cừ, P.1","Quận 5",TP.HCM,10.752,106.682,AB-,,1
+5,"Hoàng Văn Em",em.hoang@email.com,$2y$10$kyQ4sFHskaX6HUQ6JHwdxuKyq5Dvv9drStVPR81Py1aQwcwoDOJ/i,0912345675,patients/em.jpg,1982-09-30,male,"456 Lý Thường Kiệt, P.7","Quận 10",TP.HCM,10.771,106.669,O-,"Đau dạ dày mãn tính",1
+6,"Võ Thị Phương",phuong.vo@email.com,$2y$10$rIx2hX7rc0ZcqHoabR5r7uxicTal6VmMd2m8latvVQ.mk5jyeVR6i,0912345676,patients/phuong.jpg,1992-12-12,female,"789 Hoàng Văn Thụ, P.2","Tân Bình",TP.HCM,10.8,106.665,A-,,1
+7,"Đặng Minh Giang",giang.dang@email.com,$2y$10$5XK56PJbDqud.DD0znS67eOc3zwWmysFKOzQ1ul2cDiR6IIeEOk/K,0912345677,patients/giang.jpg,1988-03-22,male,"147 Võ Văn Tần, P.6","Quận 3",TP.HCM,10.777,106.693,B-,"Viêm khớp gối",1
+8,"Ngô Thị Hoa",hoa.ngo@email.com,$2y$10$Avow8PMPIziADiCdQL82LOPozlllJAEOSj0gookioky0ECHxCzqzy,0912345678,patients/hoa.jpg,1993-08-05,female,"258 Nam Kỳ Khởi Nghĩa, P.8","Quận 3",TP.HCM,10.774,106.696,AB+,,1
+9,"Lý Văn Khoa",khoa.ly@email.com,$2y$10$HdbsMlxw32.H6L612xDRbeSKIoZRXmUFZYTR2JEQ76SJVnOsEwcA.,0912345679,patients/khoa.jpg,1980-01-15,male,"369 Điện Biên Phủ, P.22","Bình Thạnh",TP.HCM,10.809,106.714,O+,"Tiểu đường type 2",1
+10,"Trịnh Thị Lan",lan.trinh@email.com,$2y$10$FNsAbiySKTiS8F3Mp2RyoeTJji6GBAypR7RRY0LJNLjgVVju/rC0.,0912345680,patients/lan.jpg,1991-06-09,female,"121 Trần Hưng Đạo, P. Cầu Ông Lãnh","Quận 1",TP.HCM,10.776,106.701,A+,,1
