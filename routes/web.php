@@ -39,7 +39,8 @@ Route::get('/specialties', [SpecialtyController::class, 'index'])->name('special
 Route::get('/specialty/{id}', [SpecialtyController::class, 'detail'])->name('specialty.detail');
 
 // Bác sĩ
-Route::get('/doctors', [DoctorController::class, 'index'])->name('doctors');
+Route::get('/doctors', [DoctorController::class, 'index'])
+    ->name('doctors.index');
 Route::get('/doctor/{id}', [DoctorController::class, 'detail'])->name('doctor.detail');
 Route::get('/doctors/search', [DoctorController::class, 'search'])->name('doctors.search');
 Route::get('/doctor-edit/{id}', [DoctorsManagementController::class, 'edit'])->name('admin.doctor-edit');
